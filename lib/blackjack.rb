@@ -13,7 +13,6 @@ def display_card_total
 end
 
 def prompt_user
-  puts "Your"
   # code #prompt_user here
 end
 
