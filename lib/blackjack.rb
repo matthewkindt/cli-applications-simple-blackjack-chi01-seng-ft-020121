@@ -8,8 +8,8 @@ def deal_card
   # code #deal_card here
 end
 
-def display_card_total
-  puts "Your cards add up to #{card_total}"
+def display_card_total(card_total)
+  puts "#{card_total}"
   #code #display_card_total here
 end
 
